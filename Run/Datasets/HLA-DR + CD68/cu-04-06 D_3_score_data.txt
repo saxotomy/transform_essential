@@ -1,0 +1,2 @@
+Path	Sample Name	Tissue Category	First Cell Compartment	First Stain Component	Second Cell Compartment	Second Stain Component	Double Negative	Single HLA-DR (Opal 570)	Single CD68 (Opal 520)	Double Positive	Tissue Category Area (Percent)	Number of Cells	HLA-DR (Opal 570) Threshold	CD68 (Opal 520) Threshold	Lab ID	Slide ID	TMA Sector	TMA Row	TMA Column	TMA Field	inForm 2.2.5800.23313
+E:\Original MANTRA official all pics	cu-04-06 D_3.im3	Stroma	Membrane	HLA-DR (Opal 570)	Membrane	CD68 (Opal 520)	34.29 %	57.69 %	0.95 %	7.07 %	76.80 %	2201	6.6	1.08			0	0	0	0	

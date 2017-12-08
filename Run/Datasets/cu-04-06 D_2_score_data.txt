@@ -1,0 +1,2 @@
+Path	Sample Name	Tissue Category	First Cell Compartment	First Stain Component	Second Cell Compartment	Second Stain Component	Double Negative	Single CD8 (Opal 620)	Single Ki67 (Opal 540)	Double Positive	Tissue Category Area (Percent)	Number of Cells	CD8 (Opal 620) Threshold	Ki67 (Opal 540) Threshold	Lab ID	Slide ID	TMA Sector	TMA Row	TMA Column	TMA Field	inForm 2.2.5800.23313
+E:\Original MANTRA official all pics	cu-04-06 D_2.im3	Tumor	Membrane	CD8 (Opal 620)	Nucleus	Ki67 (Opal 540)	98.92 %	0.69 %	0.39 %	0.00 %	28.17 %	2266	5.72	3.45			0	0	0	0	
